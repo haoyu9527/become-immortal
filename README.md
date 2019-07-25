@@ -4,6 +4,6 @@
 
 * [佛法]()
 * [心靈力量]()
-* [古代文獻](ancient-literature)
+* [古代文獻](ancient-literature.md)
 * [科技](technology.md)
 * [五花八門的飲食法](diet.md)
